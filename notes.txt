@@ -1,0 +1,8 @@
+SOftware Carpentry is organisation about teaching about programming
+
+Version Control : Git 
+Framework to track the history of a project, could be files manuscript etc. 
+Work directory
+Staging dir
+Local directory
+Remote dir 
