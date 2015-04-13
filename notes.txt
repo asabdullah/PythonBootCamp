@@ -20,3 +20,9 @@ git config --global user.name 'name'
 6. Cheking the past version : git checkout 693c98
 7. cycle : edit file, add, commit
 8. git commit -m test.py
+9. git pull from remote 
+10. git push to remote
+11. git init --bare , --bare option is only to keep the changes and not the work itself
+12. git remote add 'origin' destination folder
+13. git push -u 'origin' 'master '
+14. git add -u  
