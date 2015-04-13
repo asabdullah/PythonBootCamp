@@ -1,3 +1,5 @@
+Save notes
+
 SOftware Carpentry is organisation about teaching about programming
 
 Version Control : Git 
@@ -6,3 +8,15 @@ Work directory
 Staging dir
 Local directory
 Remote dir 
+
+How to start setup git:
+1. git init will initialize the dir or repository in local directory. All history is saved in .git.
+Check using ls .git  
+2. When you start new project is git add: tell git to add some file. Put a file in staging area. 
+3. Staging are is somewhere in between the repository area and work directory
+4. git commit bring the file from staging area to repository 
+5. git config --global user.email 'email'
+git config --global user.name 'name' 
+6. Cheking the past version : git checkout 693c98
+7. cycle : edit file, add, commit
+8. git commit -m test.py
